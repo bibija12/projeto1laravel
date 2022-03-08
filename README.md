@@ -1,2 +1,2 @@
 # projeto1laravel
- segundo repositorio 
+ segundo repositório, projeto em laravel
